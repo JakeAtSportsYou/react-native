@@ -908,7 +908,7 @@
  
    @Override
    public void setBackgroundColor(int color) {
-     mReactBackgroundManager.setBackgroundColor(Color.YELLOW);
+     mReactBackgroundManager.setBackgroundColor(color);
    }
  
    public void setBorderWidth(int position, float width) {
